@@ -32,4 +32,4 @@ Manage appointments, doctors, patients, departments, and treatments in a healthc
 ---
 
 ## 📷 ERD Screenshot
-![alt text](Untitled.png)
+![alt text](db_diagram.png)
